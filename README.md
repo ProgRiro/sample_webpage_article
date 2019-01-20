@@ -1,4 +1,4 @@
-# MeirinkanArticle
+# sample_webpage_article
 https://progriro.github.io/sample_webpage_article/
 
 シンプルなWebページ（記事ページ）のサンプルです。
